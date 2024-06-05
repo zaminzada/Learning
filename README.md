@@ -1,3 +1,4 @@
 # Learning
-#Programming
-#CompBio
+Programming
+
+CompBio
