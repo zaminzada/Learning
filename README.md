@@ -1,2 +1,2 @@
 # Learning
-Programming /n CompBio
+Programming\nCompBio
