@@ -1,6 +1,4 @@
 # Learning
-Programming
+Notes only
 
-CompBio
-
-ML
+Compbio, ML
