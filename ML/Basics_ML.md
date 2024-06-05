@@ -1,4 +1,4 @@
-ML
+ML (GeeksforGeeks)
 
 ML Types and associated tasks: Supervised (classification problems and regression problems), unsupervised (clustering, data generation, dimensionality visualization and reduction, density estimation), semi supervised (only some outputs/labels for each inputs/features), reinforcement (reward system)									
 									
