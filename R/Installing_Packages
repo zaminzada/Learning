@@ -20,8 +20,8 @@ Warning: unable to access index for repository https://cran.rstudio.com/bin/maco
   cannot open URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/PACKAGES'
 Warning message:
 package ‘~/Desktop/Research Software/RNASeqAnalysis/kallisto/kallisto’ is not available (for R version 3.5.1) 
-ChatGPT
-ChatGPT
+
+
 The warning message you're encountering suggests that R is unable to access the package index from the CRAN repository. This warning is likely because you're using an older version of R (version 3.5.1), and the CRAN mirror you're trying to access does not support that version or the specific platform (macOS El Capitan) you're on.
 
 To resolve this issue, you can try the following steps:
