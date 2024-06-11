@@ -47,3 +47,9 @@ If you continue to encounter issues, please provide more details about your R en
 CHATGPT
 Troubleshooting steps may include checking file permissions, installing missing dependencies, verifying package files, or seeking assistance from the package maintainer or community forums.
 
+R CRAN
+It says to Adjust mirror:
+This directory contains binaries for the base distribution and of R and packages to run on macOS. R and package binaries for R versions older than 4.0.0 are only available from the CRAN archive so users of such versions should adjust the CRAN mirror setting (https://cran-archive.r-project.org) accordingly.
+
+XCODE or XCRUN
+FAQ: Most R packages are available in a pre-compiled binary format, in which case you don't need XCode or gfortran. If you want to install development versions of packages (e.g. from someone's GitHub repository), and those packages contain compiled (C++ or Fortran) code, then you'll need XCode. Sometimes you'll see a message when installing packages about "binary available, but source is newer. Compile from source?". In this case it's usually safe to say "no".
