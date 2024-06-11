@@ -1,8 +1,8 @@
 utils::install.packages("~/Desktop/Research Software/RNASeqAnalysis/kallisto/kallisto", repos = NULL)
 Error in utils::install.packages("~/Desktop/Research Software/RNASeqAnalysis/kallisto/kallisto",  : 
   type == "both" cannot be used with 'repos = NULL'
-ChatGPT
-ChatGPT
+
+
 The error message you're seeing indicates that you're trying to install a package locally from a file path, but you've also specified repos = NULL, which is not compatible with installing from a local file.
 
 If you're installing a package from a local file, you should not specify repos = NULL. Instead, you should simply provide the file path to the package as the first argument to install.packages().
